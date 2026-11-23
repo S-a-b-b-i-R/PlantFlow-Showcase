@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Three requests: one served, one refused by permissions, one refused by company isolation">
+<title>Three requests: one served, one refused by permissions, one refused by company isolation</title>
+<rect width="1200" height="400" rx="14" fill="#f2f3f0" stroke="#c6cbc5"/>
+<text x="40" y="54" font-size="25" font-weight="800" fill="#1b2a31">Every request passes the same guards</text>
+<text x="40" y="84" font-size="16" fill="#556268">Access is decided by the API in one place, never by the screen and never per controller.</text>
+<rect x="40" y="150" width="200" height="84" rx="10" fill="#f2f3f0" stroke="#c6cbc5" stroke-width="3"><animate attributeName="stroke" values="#c6cbc5" keyTimes="0" calcMode="discrete" dur="14.6s" repeatCount="indefinite"/></rect>
+<text x="140.0" y="186" text-anchor="middle" font-size="19" font-weight="700" fill="#1b2a31">React app</text>
+<text x="140.0" y="212" text-anchor="middle" font-size="14" fill="#556268">Google sign-in</text>
+<path d="M244 192.0 H264 m-8 -6 l8 6 l-8 6" fill="none" stroke="#556268" stroke-width="2"/>
+<rect x="270" y="150" width="200" height="84" rx="10" fill="#f2f3f0" stroke="#c6cbc5" stroke-width="3"><animate attributeName="stroke" values="#c6cbc5" keyTimes="0" calcMode="discrete" dur="14.6s" repeatCount="indefinite"/></rect>
+<text x="370.0" y="186" text-anchor="middle" font-size="19" font-weight="700" fill="#1b2a31">.NET 10 API</text>
+<text x="370.0" y="212" text-anchor="middle" font-size="14" fill="#556268">checks the Firebase token</text>
+<path d="M474 192.0 H494 m-8 -6 l8 6 l-8 6" fill="none" stroke="#556268" stroke-width="2"/>
+<rect x="500" y="150" width="200" height="84" rx="10" fill="#f2f3f0" stroke="#c6cbc5" stroke-width="3"><animate attributeName="stroke" values="#c6cbc5;#a8392b;#c6cbc5" keyTimes="0;0.5068;0.6644" calcMode="discrete" dur="14.6s" repeatCount="indefinite"/></rect>
+<text x="600.0" y="186" text-anchor="middle" font-size="19" font-weight="700" fill="#1b2a31">Permissions</text>
+<text x="600.0" y="212" text-anchor="middle" font-size="14" fill="#556268">deny beats grant</text>
+<path d="M704 192.0 H724 m-8 -6 l8 6 l-8 6" fill="none" stroke="#556268" stroke-width="2"/>
+<rect x="730" y="150" width="200" height="84" rx="10" fill="#f2f3f0" stroke="#c6cbc5" stroke-width="3"><animate attributeName="stroke" values="#c6cbc5;#a8392b;#c6cbc5" keyTimes="0;0.8151;0.9726" calcMode="discrete" dur="14.6s" repeatCount="indefinite"/></rect>
+<text x="830.0" y="186" text-anchor="middle" font-size="19" font-weight="700" fill="#1b2a31">Company filter</text>
+<text x="830.0" y="212" text-anchor="middle" font-size="14" fill="#556268">one rule, every query</text>
+<path d="M934 192.0 H954 m-8 -6 l8 6 l-8 6" fill="none" stroke="#556268" stroke-width="2"/>
+<rect x="960" y="150" width="200" height="84" rx="10" fill="#f2f3f0" stroke="#c6cbc5" stroke-width="3"><animate attributeName="stroke" values="#c6cbc5" keyTimes="0" calcMode="discrete" dur="14.6s" repeatCount="indefinite"/></rect>
+<text x="1060.0" y="186" text-anchor="middle" font-size="19" font-weight="700" fill="#1b2a31">SQL Server</text>
+<text x="1060.0" y="212" text-anchor="middle" font-size="14" fill="#556268">shared database</text>
+<circle cx="240" cy="192.0" r="10" fill="#f4c20d" stroke="#1b2a31" stroke-width="2" opacity="0"><animate attributeName="cx" values="240;240;990;990;240;240;240" keyTimes="0;0.0205;0.1301;0.1507;0.2603;0.3562;1" dur="14.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" keyTimes="0;0.3562" calcMode="discrete" dur="14.6s" repeatCount="indefinite"/><animate attributeName="fill" values="#f4c20d;#2f7d5c" keyTimes="0;0.2603" calcMode="discrete" dur="14.6s" repeatCount="indefinite"/></circle>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.2603;0.3562" calcMode="discrete" dur="14.6s" repeatCount="indefinite"/><rect x="88" y="104" width="104" height="30" rx="6" fill="#2f7d5c"/><text x="140" y="125" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">200 OK</text></g>
+<text x="40" y="306" font-size="18" fill="#1b2a31" opacity="0">A dispatcher at Company A opens one of their orders.<animate attributeName="opacity" values="1;0" keyTimes="0;0.3562" calcMode="discrete" dur="14.6s" repeatCount="indefinite"/></text>
+<circle cx="240" cy="192.0" r="10" fill="#f4c20d" stroke="#1b2a31" stroke-width="2" opacity="0"><animate attributeName="cx" values="240;240;240;488;488;488" keyTimes="0;0.3767;0.3973;0.5068;0.6644;1" dur="14.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.3767;0.6644" calcMode="discrete" dur="14.6s" repeatCount="indefinite"/><animate attributeName="fill" values="#f4c20d;#a8392b" keyTimes="0;0.5068" calcMode="discrete" dur="14.6s" repeatCount="indefinite"/></circle>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5068;0.6644" calcMode="discrete" dur="14.6s" repeatCount="indefinite"/><rect x="548.0" y="104" width="104" height="30" rx="6" fill="#a8392b"/><text x="600.0" y="125" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">403</text></g>
+<text x="40" y="306" font-size="18" fill="#1b2a31" opacity="0">A sales rep without the billing permission tries to issue an invoice.<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.3767;0.6644" calcMode="discrete" dur="14.6s" repeatCount="indefinite"/></text>
+<circle cx="240" cy="192.0" r="10" fill="#f4c20d" stroke="#1b2a31" stroke-width="2" opacity="0"><animate attributeName="cx" values="240;240;240;718;718;718" keyTimes="0;0.6849;0.7055;0.8151;0.9726;1" dur="14.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.6849;0.9726" calcMode="discrete" dur="14.6s" repeatCount="indefinite"/><animate attributeName="fill" values="#f4c20d;#a8392b" keyTimes="0;0.8151" calcMode="discrete" dur="14.6s" repeatCount="indefinite"/></circle>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.8151;0.9726" calcMode="discrete" dur="14.6s" repeatCount="indefinite"/><rect x="778.0" y="104" width="104" height="30" rx="6" fill="#a8392b"/><text x="830.0" y="125" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">404</text></g>
+<text x="40" y="306" font-size="18" fill="#1b2a31" opacity="0">Someone at Company B guesses the id of Company A's order. To them it doesn't exist.<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.6849;0.9726" calcMode="discrete" dur="14.6s" repeatCount="indefinite"/></text>
+<text x="40" y="342" font-size="15" fill="#556268">Each refusal is covered by an integration test against a real SQL Server.</text>
+</svg>

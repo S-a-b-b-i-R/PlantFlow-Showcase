@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="PlantFlow: an order moves from order to approval, plan, batching, delivery and invoice">
+<title>PlantFlow: an order moves from order to approval, plan, batching, delivery and invoice</title>
+<rect width="1200" height="330" rx="14" fill="#1a2328" stroke="#2b383f"/>
+<rect x="56" y="58" width="14" height="52" rx="3" fill="#f4c20d"/>
+<text x="86" y="100" font-size="50" font-weight="800" fill="#e6e9e5" letter-spacing="-1">PlantFlow</text>
+<text x="58" y="142" font-size="21" fill="#93a0a5">Operations software for ready-mix concrete companies, from the first quote to the invoice.</text>
+<line x1="110" y1="246" x2="1090" y2="246" stroke="#33424a" stroke-width="6" stroke-linecap="round"/>
+<line x1="110" y1="246" x2="110" y2="246" stroke="#4fb58a" stroke-width="6" stroke-linecap="round"><animate attributeName="x2" values="110;110;306;306;502;502;698;698;894;894;1090;1090;1090" keyTimes="0;0.0636;0.1545;0.2182;0.3091;0.3727;0.4636;0.5273;0.6182;0.6818;0.7727;0.8364;1" dur="11.0s" repeatCount="indefinite"/></line>
+<circle cx="110" cy="246" r="11" fill="#1a2328" stroke="#e6e9e5" stroke-width="3"><animate attributeName="fill" values="#f4c20d;#4fb58a" keyTimes="0;0.0636" calcMode="discrete" dur="11.0s" repeatCount="indefinite"/></circle>
+<text x="110" y="288" text-anchor="middle" font-size="19" font-weight="700" fill="#e6e9e5">Order</text>
+<text x="110" y="312" text-anchor="middle" font-size="15" fill="#93a0a5">lines, VAT, charges</text>
+<circle cx="306" cy="246" r="11" fill="#1a2328" stroke="#e6e9e5" stroke-width="3"><animate attributeName="fill" values="#1a2328;#f4c20d;#4fb58a" keyTimes="0;0.1545;0.2182" calcMode="discrete" dur="11.0s" repeatCount="indefinite"/></circle>
+<text x="306" y="288" text-anchor="middle" font-size="19" font-weight="700" fill="#e6e9e5">Approve</text>
+<text x="306" y="312" text-anchor="middle" font-size="15" fill="#93a0a5">floor price checked</text>
+<circle cx="502" cy="246" r="11" fill="#1a2328" stroke="#e6e9e5" stroke-width="3"><animate attributeName="fill" values="#1a2328;#f4c20d;#4fb58a" keyTimes="0;0.3091;0.3727" calcMode="discrete" dur="11.0s" repeatCount="indefinite"/></circle>
+<text x="502" y="288" text-anchor="middle" font-size="19" font-weight="700" fill="#e6e9e5">Plan</text>
+<text x="502" y="312" text-anchor="middle" font-size="15" fill="#93a0a5">pours, pumps, crews</text>
+<circle cx="698" cy="246" r="11" fill="#1a2328" stroke="#e6e9e5" stroke-width="3"><animate attributeName="fill" values="#1a2328;#f4c20d;#4fb58a" keyTimes="0;0.4636;0.5273" calcMode="discrete" dur="11.0s" repeatCount="indefinite"/></circle>
+<text x="698" y="288" text-anchor="middle" font-size="19" font-weight="700" fill="#e6e9e5">Batch</text>
+<text x="698" y="312" text-anchor="middle" font-size="15" fill="#93a0a5">one tap per step</text>
+<circle cx="894" cy="246" r="11" fill="#1a2328" stroke="#e6e9e5" stroke-width="3"><animate attributeName="fill" values="#1a2328;#f4c20d;#4fb58a" keyTimes="0;0.6182;0.6818" calcMode="discrete" dur="11.0s" repeatCount="indefinite"/></circle>
+<text x="894" y="288" text-anchor="middle" font-size="19" font-weight="700" fill="#e6e9e5">Deliver</text>
+<text x="894" y="312" text-anchor="middle" font-size="15" fill="#93a0a5">poured minus returned</text>
+<circle cx="1090" cy="246" r="11" fill="#1a2328" stroke="#e6e9e5" stroke-width="3"><animate attributeName="fill" values="#1a2328;#f4c20d;#4fb58a" keyTimes="0;0.7727;0.8909" calcMode="discrete" dur="11.0s" repeatCount="indefinite"/></circle>
+<text x="1090" y="288" text-anchor="middle" font-size="19" font-weight="700" fill="#e6e9e5">Invoice</text>
+<text x="1090" y="312" text-anchor="middle" font-size="15" fill="#93a0a5">PDF, Mushak 6.3</text>
+<g>
+  <animateTransform attributeName="transform" type="translate" values="110,224;110,224;306,224;306,224;502,224;502,224;698,224;698,224;894,224;894,224;1090,224;1090,224;1090,224"
+    keyTimes="0;0.0636;0.1545;0.2182;0.3091;0.3727;0.4636;0.5273;0.6182;0.6818;0.7727;0.8364;1" dur="11.0s" repeatCount="indefinite"/>
+  <rect x="-52" y="-12" width="92" height="7" rx="2" fill="#e6e9e5"/>
+  <g transform="rotate(-10 -16 -30)">
+    <ellipse cx="-16" cy="-30" rx="31" ry="17" fill="#f4c20d" stroke="#e6e9e5" stroke-width="2.5"/>
+    <line x1="-44" y1="-30" x2="12" y2="-30" stroke="#1b2a31" stroke-width="3" stroke-dasharray="7 7">
+      <animate attributeName="stroke-dashoffset" values="0;-28" dur="0.7s" repeatCount="indefinite"/></line>
+  </g>
+  <path d="M18 -12 V-42 H33 L42 -27 V-12 Z" fill="#e6e9e5"/>
+  <path d="M22 -38 H31 L37 -28 H22 Z" fill="#1a2328"/>
+  <circle cx="-38" cy="-4" r="7.5" fill="#e6e9e5"/><circle cx="-38" cy="-4" r="2.5" fill="#1a2328"/>
+  <circle cx="-18" cy="-4" r="7.5" fill="#e6e9e5"/><circle cx="-18" cy="-4" r="2.5" fill="#1a2328"/>
+  <circle cx="30" cy="-4" r="7.5" fill="#e6e9e5"/><circle cx="30" cy="-4" r="2.5" fill="#1a2328"/>
+</g>
+</svg>
